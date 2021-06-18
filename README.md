@@ -38,11 +38,11 @@ Want To Contact Me? 📱
 
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
-- [5 Crazy Tech Trends That Will Define the Future](https://muthuannamalai.hashnode.dev/5-crazy-tech-trends-that-will-define-the-future)
-- [Web Development: Build your Portfolio Website Design using HTML](https://muthuannamalai.hashnode.dev/web-development-build-your-portfolio-website-design-using-html)
-- [Top 10 Technology Trends of 2021](https://muthuannamalai.hashnode.dev/top-10-technology-trends-of-2021)
-- [Basics of HTML and Everything you Need to Know about it](https://muthuannamalai.hashnode.dev/basics-of-html-and-everything-you-need-to-know-about-it)
-- [What is Buy me a Coffee ☕️: Step by Step Procedure on How to Start a Page](https://muthuannamalai.hashnode.dev/what-is-buy-me-a-coffee-step-by-step-procedure-on-how-to-start-a-page)
+- [5 Crazy Tech Trends That Will Define the Future](https://muthuannamalai.tech/5-crazy-tech-trends-that-will-define-the-future)
+- [Web Development: Build your Portfolio Website Design using HTML](https://muthuannamalai.tech/web-development-build-your-portfolio-website-design-using-html)
+- [Top 10 Technology Trends of 2021](https://muthuannamalai.tech/top-10-technology-trends-of-2021)
+- [Basics of HTML and Everything you Need to Know about it](https://muthuannamalai.tech/basics-of-html-and-everything-you-need-to-know-about-it)
+- [What is Buy me a Coffee ☕️: Step by Step Procedure on How to Start a Page](https://muthuannamalai.tech/what-is-buy-me-a-coffee-step-by-step-procedure-on-how-to-start-a-page)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles]( https://muthuannamalai.hashnode.dev/)
