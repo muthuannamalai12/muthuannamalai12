@@ -1,10 +1,19 @@
 <h3 align="center">
-  Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Muthu Annamalai
+ # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Muthu Annamalai
 </h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Open+Source+Enthusiast;Self+Taught+Web+Developer;Hackathon+Lover;CS+Undergrad;Always+Learning&center=true&width=380&height=45"></a>
 </p>
+
+---
+
+Want To Contact Me? 📱
+
+[![Linkedin Badge](https://img.shields.io/badge/-Muthu%20Annamalai%20Venkatachalam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muthu-annamalai/)](https://www.linkedin.com/in/muthu-annamalai/)
+[![Instagram Badge](https://img.shields.io/badge/-muthuannamalai12-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/muthuannamalai12/)](https://instagram.com/muthuannamalai12)
+[![Twitter Badge](https://img.shields.io/badge/-muthuannamalai_-white?style=flat-square&logo=twitter&logoColor=blue&link=https://twitter.com/muthuannamalai_/)](https://twitter.com/muthuannamalai_)
+[![Gmail Badge](https://img.shields.io/badge/-muthuannamalai2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muthuannamalai2002@gmail.com/)](mailto:muthuannamalai2002@gmail.com)
 
 ---
 
@@ -20,19 +29,9 @@ I managed to create an online presence with my [Blog](https://muthuannamalai.has
 
 ---
 
-Want To Contact Me? 📱
-
-[![Linkedin Badge](https://img.shields.io/badge/-Muthu%20Annamalai%20Venkatachalam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muthu-annamalai/)](https://www.linkedin.com/in/muthu-annamalai/)
-[![Instagram Badge](https://img.shields.io/badge/-muthuannamalai12-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/muthuannamalai12/)](https://instagram.com/muthuannamalai12)
-[![Twitter Badge](https://img.shields.io/badge/-muthuannamalai_-white?style=flat-square&logo=twitter&logoColor=blue&link=https://twitter.com/muthuannamalai_/)](https://twitter.com/muthuannamalai_)
-[![Gmail Badge](https://img.shields.io/badge/-muthuannamalai2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muthuannamalai2002@gmail.com/)](mailto:muthuannamalai2002@gmail.com)
-
-
----
-
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java" width="40" height="40"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/>
 
 ---
 
@@ -73,12 +72,6 @@ Want To Contact Me? 📱
    <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Muthu Annamalai Venkatachalam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muthuannamalai12&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</details>
-
-<details>
-  <summary>:fire: GitHub Streak</summary>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajithtech75&theme=dark&show-icons=true" alt="GitHub Streak" align="center" />
 </details>
 
 ---
