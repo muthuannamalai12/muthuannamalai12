@@ -1,6 +1,6 @@
-<h2 align="center">
+<h3 align="center">
   Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Muthu Annamalai
-</h2>
+</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Open+Source+Enthusiast;Self+Taught+Web+Developer;Hackathon+Lover;CS+Undergrad;Always+Learning&center=true&width=380&height=45"></a>
