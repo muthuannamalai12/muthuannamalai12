@@ -37,11 +37,11 @@ I managed to create an online presence with my [Blog](https://muthuannamalai.has
 
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [10+ Open Source Programs Students Can Apply to](https://muthuannamalai.hashnode.dev/10-open-source-programs-students-can-apply-to)
 - [Could Tesla Succeed In India?](https://muthuannamalai.hashnode.dev/could-tesla-succeed-in-india)
 - [How To Contribute To Open-Source Projects As A Beginner](https://muthuannamalai.hashnode.dev/how-to-contribute-to-open-source-projects-as-a-beginner)
 - [5 Crazy Tech Trends That Will Define the Future](https://muthuannamalai.hashnode.dev/5-crazy-tech-trends-that-will-define-the-future)
 - [Web Development: Build your Portfolio Website Design using HTML](https://muthuannamalai.hashnode.dev/web-development-build-your-portfolio-website-design-using-html)
-- [Top 10 Technology Trends of 2021](https://muthuannamalai.hashnode.dev/top-10-technology-trends-of-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles]( https://muthuannamalai.hashnode.dev/)
