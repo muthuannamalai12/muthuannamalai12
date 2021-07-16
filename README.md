@@ -37,11 +37,11 @@ I managed to create an online presence with my [Blog](https://muthuannamalai.has
 
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [Live Chat Support 101 | Evolution, benefits and the way forward.](https://muthuannamalai.hashnode.dev/live-chat-support-101-or-evolution-benefits-and-the-way-forward)
 - [20 Notion Templates That Keeps You Organized](https://muthuannamalai.hashnode.dev/20-notion-templates-that-keeps-you-organized)
 - [All About Scaler Discord Community](https://muthuannamalai.hashnode.dev/all-about-scaler-discord-community)
 - [15 Developer Portfolios to Inspire You](https://muthuannamalai.hashnode.dev/15-developer-portfolios-to-inspire-you)
 - [Top 10 VS Code Themes](https://muthuannamalai.hashnode.dev/top-10-vs-code-themes)
-- [Everything you need to know about Hackathons](https://muthuannamalai.hashnode.dev/everything-you-need-to-know-about-hackathons)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles]( https://muthuannamalai.hashnode.dev/)
