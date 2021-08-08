@@ -37,11 +37,11 @@ I managed to create an online presence with my [Blog](https://muthuannamalai.has
 
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
-- [10 Helpful Resources For Color Palette Inspiration](https://muthuannamalai.hashnode.dev/10-helpful-resources-for-color-palette-inspiration)
-- [10 Developers Worth Following on Instagram](https://muthuannamalai.hashnode.dev/10-developers-worth-following-on-instagram)
-- [5+ Must Know HTML Tags That Almost Nobody Knows](https://muthuannamalai.hashnode.dev/5-must-know-html-tags-that-almost-nobody-knows)
-- [Top 10 VS Code Extensions For Web Development](https://muthuannamalai.hashnode.dev/top-10-vs-code-extensions-for-web-development)
-- [Learn programming by playing games](https://muthuannamalai.hashnode.dev/learn-programming-by-playing-games)
+- [10 Helpful Resources For Color Palette Inspiration](https://muthuannamalai.tech/10-helpful-resources-for-color-palette-inspiration)
+- [10 Developers Worth Following on Instagram](https://muthuannamalai.tech/10-developers-worth-following-on-instagram)
+- [5+ Must Know HTML Tags That Almost Nobody Knows](https://muthuannamalai.tech/5-must-know-html-tags-that-almost-nobody-knows)
+- [Top 10 VS Code Extensions For Web Development](https://muthuannamalai.tech/top-10-vs-code-extensions-for-web-development)
+- [Learn programming by playing games](https://muthuannamalai.tech/learn-programming-by-playing-games)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles]( https://muthuannamalai.hashnode.dev/)
