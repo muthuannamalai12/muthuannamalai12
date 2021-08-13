@@ -37,11 +37,11 @@ I managed to create an online presence with my [Blog](https://muthuannamalai.has
 
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Youtube Channels To Learn Web Development](https://muthuannamalai.tech/top-10-youtube-channels-to-learn-web-development)
 - [13 Best Content Creation Tools And Resources](https://muthuannamalai.tech/13-best-content-creation-tools-and-resources)
 - [10 Wonderful Resources For Color Palette Inspiration](https://muthuannamalai.tech/10-wonderful-resources-for-color-palette-inspiration)
 - [10 Developers Worth Following on Instagram](https://muthuannamalai.tech/10-developers-worth-following-on-instagram)
 - [5+ Must Know HTML Tags That Almost Nobody Knows](https://muthuannamalai.tech/5-must-know-html-tags-that-almost-nobody-knows)
-- [Top 10 VS Code Extensions For Web Development](https://muthuannamalai.tech/top-10-vs-code-extensions-for-web-development)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles]( https://muthuannamalai.hashnode.dev/)
