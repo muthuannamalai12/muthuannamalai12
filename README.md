@@ -37,11 +37,11 @@ I managed to create an online presence with my [Blog](https://muthuannamalai.has
 
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner’s Introduction to GitHub](https://muthuannamalai.tech/a-beginners-introduction-to-github)
 - [How I became a technical writer](https://muthuannamalai.tech/how-i-became-a-technical-writer)
 - [7 Awesome Ways to Screenshot Your Code](https://muthuannamalai.tech/7-awesome-ways-to-screenshot-your-code)
 - [Mobile Security Assessment for Android, iOS, and Windows](https://muthuannamalai.tech/mobile-security-assessment-for-android-ios-and-windows)
 - [7 Free Design Resources — Icons](https://muthuannamalai.tech/7-free-design-resources-icons)
-- [10 Best Productive Tools for Web Developer.](https://muthuannamalai.tech/10-best-productive-tools-for-web-developer)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles]( https://muthuannamalai.hashnode.dev/)
