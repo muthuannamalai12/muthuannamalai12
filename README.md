@@ -37,11 +37,11 @@ I managed to create an online presence with my [Blog](https://muthuannamalai.has
 
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Magic URL Login with Appwrite](https://muthuannamalai.tech/how-to-use-magic-url-login-with-appwrite)
 - [Introduction To Appwrite: The Open-Source Firebase Alternative That Is Easy to Self-Host 🚀](https://muthuannamalai.tech/introduction-to-appwrite-the-open-source-firebase-alternative-that-is-easy-to-self-host)
 - [How I overcame My Procrastination](https://muthuannamalai.tech/how-i-overcame-my-procrastination)
 - [7 Things You Should Know Before You Try Coding](https://muthuannamalai.tech/7-things-you-should-know-before-you-try-coding)
 - [How to Add a GitHub Social Connection in Auth0](https://muthuannamalai.tech/how-to-add-a-github-social-connection-in-auth0)
-- [How To open any GitHub repository in VS Code in your browser](https://muthuannamalai.tech/how-to-open-any-github-repository-in-vs-code-in-your-browser)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles]( https://muthuannamalai.hashnode.dev/)
