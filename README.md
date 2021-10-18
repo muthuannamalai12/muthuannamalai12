@@ -37,11 +37,11 @@ I managed to create an online presence with my [Blog](https://muthuannamalai.has
 
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest 101: Everything You Need To Know About It](https://muthuannamalai.tech/hacktoberfest-101-everything-you-need-to-know-about-it)
 - [How To Solve Gee Captcha in Python Using 2Captcha](https://muthuannamalai.tech/how-to-solve-gee-captcha-in-python-using-2captcha)
 - [How to Use Magic URL Login with Appwrite](https://muthuannamalai.tech/how-to-use-magic-url-login-with-appwrite)
 - [Introduction To Appwrite: The Open-Source Firebase Alternative That Is Easy to Self-Host 🚀](https://muthuannamalai.tech/introduction-to-appwrite-the-open-source-firebase-alternative-that-is-easy-to-self-host)
 - [How I overcame My Procrastination](https://muthuannamalai.tech/how-i-overcame-my-procrastination)
-- [7 Things You Should Know Before You Try Coding](https://muthuannamalai.tech/7-things-you-should-know-before-you-try-coding)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles]( https://muthuannamalai.hashnode.dev/)
