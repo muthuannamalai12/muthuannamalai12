@@ -37,11 +37,11 @@ I managed to create an online presence with my [Blog](https://muthuannamalai.has
 
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [10 Best Websites for Practising and Perfecting Front-End Development](https://muthuannamalai.tech/10-best-websites-for-practising-and-perfecting-front-end-development)
 - [Open Source Best Practices](https://muthuannamalai.tech/open-source-best-practices)
 - [How To Make a Quick Readme File in Github](https://muthuannamalai.tech/how-to-make-a-quick-readme-file-in-github)
 - [15 JavaScript GitHub Repos You Should Check Out During Hacktoberfest](https://muthuannamalai.tech/15-javascript-github-repos-you-should-check-out)
 - [Hacktoberfest 101: Everything You Need To Know About It](https://muthuannamalai.tech/hacktoberfest-101-everything-you-need-to-know-about-it)
-- [How To Solve Gee Captcha in Python Using 2Captcha](https://muthuannamalai.tech/how-to-solve-gee-captcha-in-python-using-2captcha)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles]( https://muthuannamalai.hashnode.dev/)
