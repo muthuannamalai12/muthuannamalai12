@@ -37,11 +37,11 @@ I managed to create an online presence with my [Blog](https://muthuannamalai.has
 
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [What is Github License And How To Add Them](https://muthuannamalai.tech/what-is-github-license-and-how-to-add-them)
 - [10 Bad Coding Habits You Need to Put an End to Right Now](https://muthuannamalai.tech/10-bad-coding-habits-you-need-to-put-an-end-to-right-now)
 - [10 Best Websites for Practising and Perfecting Front-End Development](https://muthuannamalai.tech/10-best-websites-for-practising-and-perfecting-front-end-development)
 - [Open Source Best Practices](https://muthuannamalai.tech/open-source-best-practices)
 - [How To Make a Quick Readme File in Github](https://muthuannamalai.tech/how-to-make-a-quick-readme-file-in-github)
-- [15 JavaScript GitHub Repos You Should Check Out During Hacktoberfest](https://muthuannamalai.tech/15-javascript-github-repos-you-should-check-out)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles]( https://muthuannamalai.hashnode.dev/)
