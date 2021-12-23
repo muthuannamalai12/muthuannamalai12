@@ -2,18 +2,14 @@
   Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Muthu Annamalai
 </h3>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Open+Source+Enthusiast;Self+Taught+Web+Developer;Hackathon+Lover;CS+Undergrad;Always+Learning&center=true&width=380&height=45"></a>
-</p>
-
 ---
 
 Want To Contact Me? 📱
 
 [![Linkedin Badge](https://img.shields.io/badge/-Muthu%20Annamalai%20Venkatachalam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muthu-annamalai/)](https://www.linkedin.com/in/muthu-annamalai/)
 [![Instagram Badge](https://img.shields.io/badge/-muthuannamalai12-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/muthuannamalai12/)](https://instagram.com/muthuannamalai12)
-[![Twitter Badge](https://img.shields.io/badge/-muthuannamalai_-white?style=flat-square&logo=twitter&logoColor=blue&link=https://twitter.com/muthuannamalai_/)](https://twitter.com/muthuannamalai_)
 [![Gmail Badge](https://img.shields.io/badge/-muthuannamalai2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muthuannamalai2002@gmail.com/)](mailto:muthuannamalai2002@gmail.com)
+[![Hashnode Badge](https://img.shields.io/badge/-@muthuannamalai12-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://muthuannamalai.tech/)](https://muthuannamalai.tech/)
 
 ---
 
