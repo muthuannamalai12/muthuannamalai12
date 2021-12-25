@@ -33,11 +33,11 @@ I managed to create an online presence with my [Blog](https://muthuannamalai.has
 
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
-- [How To Create A Login Page With HTML And CSS](https://muthuannamalai.tech/how-to-create-a-login-page-with-html-and-css)
 - [8 Lucrative Ways To Earn Money As A Writer](https://muthuannamalai.tech/8-lucrative-ways-to-earn-money-as-a-writer)
 - [What Is Horizontal Scrolling And How To Implement It](https://muthuannamalai.tech/what-is-horizontal-scrolling-and-how-to-implement-it)
 - [10 Most Useful HTML Snippets](https://muthuannamalai.tech/10-most-useful-html-snippets)
 - [10 CSS Generators for Web Development](https://muthuannamalai.tech/10-css-generators-for-web-development)
+- [What is Github License And How To Add Them?](https://muthuannamalai.tech/what-is-github-license-and-how-to-add-them)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles]( https://muthuannamalai.hashnode.dev/)
