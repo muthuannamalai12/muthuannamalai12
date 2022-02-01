@@ -33,11 +33,11 @@ I managed to create an online presence with my [Blog](https://muthuannamalai.has
 
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [17 Ridiculously Funny Programming Memes that Every Developer Can Relate To](https://muthuannamalai.tech/17-ridiculously-funny-programming-memes-for-developers)
 - [My 27 Favourite Programming Quotes](https://muthuannamalai.tech/my-27-favourite-programming-quotes)
 - [21 Must-Visit Awesome Websites For Web Developers](https://muthuannamalai.tech/21-must-visit-awesome-websites-for-web-developers)
 - [9 Useful Cheat Sheets for Developers](https://muthuannamalai.tech/9-useful-cheat-sheets-for-developers)
 - [7 Essential Front-end Resources You Should Know](https://muthuannamalai.tech/7-essential-front-end-resources-you-should-know)
-- [10 Interesting GitHub Repos Worth Checking Out](https://muthuannamalai.tech/10-interesting-github-repos-worth-checking-out)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles]( https://muthuannamalai.hashnode.dev/)
