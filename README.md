@@ -33,11 +33,11 @@ I managed to create an online presence with my [Blog](https://muthuannamalai.has
 
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [Improving Language Accessibility in Programming](https://muthuannamalai.tech/improving-language-accessibility-in-programming)
 - [5 Best UI Practices Every Developer Should Follow](https://muthuannamalai.tech/5-best-ui-practices-every-developer-should-follow)
 - [Best Blogs To Follow As A Developer](https://muthuannamalai.tech/best-blogs-to-follow-as-a-developer)
 - [Wonderful developer communities to join in 2022](https://muthuannamalai.tech/wonderful-developer-communities-to-join-in-2022)
 - [17 Ridiculously Funny Programming Memes that Every Developer Can Relate To](https://muthuannamalai.tech/17-ridiculously-funny-programming-memes-for-developers)
-- [My 27 Favourite Programming Quotes](https://muthuannamalai.tech/my-27-favourite-programming-quotes)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles]( https://muthuannamalai.hashnode.dev/)
