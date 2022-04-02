@@ -33,11 +33,11 @@ I managed to create an online presence with my [Blog](https://muthuannamalai.has
 
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [How To Enable JetPack In WordPress](https://muthuannamalai.tech/how-to-enable-jetpack-in-wordpress)
 - [WordPress: What is a Permalink?](https://muthuannamalai.tech/what-is-a-permalink)
 - [How to Configure your GitHub Credentials In Visual Studio Code.](https://muthuannamalai.tech/how-to-configure-your-github-credentials-in-visual-studio-code)
 - [Improving Language Accessibility in Programming](https://muthuannamalai.tech/improving-language-accessibility-in-programming)
 - [5 Best UI Practices Every Developer Should Follow](https://muthuannamalai.tech/5-best-ui-practices-every-developer-should-follow)
-- [Best Blogs To Follow As A Developer](https://muthuannamalai.tech/best-blogs-to-follow-as-a-developer)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles]( https://muthuannamalai.hashnode.dev/)
