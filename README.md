@@ -33,7 +33,7 @@ I managed to create an online presence with my [Blog](https://muthuannamalai.has
 
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
-- [Popular DevOps tools In 2022](https://muthuannamalai.tech/popular-devops-tools-in-2022)
+- [Popular DevOps tools](https://muthuannamalai.tech/popular-devops-tools)
 - [Overview of Mobile Testing: Tips and Tricks](https://muthuannamalai.tech/overview-of-mobile-testing)
 - [Overview of Portainer: An easy tool to manage your Docker containers](https://muthuannamalai.tech/overview-of-portainer)
 - [How to improve your mobile app performance and why is it important](https://muthuannamalai.tech/mobile-app-performance)
