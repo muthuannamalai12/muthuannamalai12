@@ -33,11 +33,11 @@ I managed to create an online presence with my [Blog](https://muthuannamalai.has
 
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [Most Common Web Development Mistakes](https://muthuannamalai.tech/most-common-web-development-mistakes)
 - [Best Android Development Practices In 2022](https://muthuannamalai.tech/best-android-development-practices)
 - [Popular DevOps tools](https://muthuannamalai.tech/popular-devops-tools)
 - [Overview of Mobile Testing: Tips and Tricks](https://muthuannamalai.tech/overview-of-mobile-testing)
 - [Overview of Portainer: An easy tool to manage your Docker containers](https://muthuannamalai.tech/overview-of-portainer)
-- [How to improve your mobile app performance and why is it important](https://muthuannamalai.tech/mobile-app-performance)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles]( https://muthuannamalai.hashnode.dev/)
