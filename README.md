@@ -33,11 +33,11 @@ I managed to create an online presence with my [Blog](https://muthuannamalai.has
 
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [Best Kubernetes Alternatives in 2022](https://muthuannamalai.tech/best-kubernetes-alternatives-in-2022)
 - [Top 15 Popular Databases to Use in 2022](https://muthuannamalai.tech/top-15-popular-databases-to-use-in-2022)
 - [Most Common Web Development Mistakes](https://muthuannamalai.tech/most-common-web-development-mistakes)
 - [Best Android Development Practices In 2022](https://muthuannamalai.tech/best-android-development-practices)
 - [Popular DevOps tools](https://muthuannamalai.tech/popular-devops-tools)
-- [Overview of Mobile Testing: Tips and Tricks](https://muthuannamalai.tech/overview-of-mobile-testing)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles]( https://muthuannamalai.hashnode.dev/)
