@@ -37,7 +37,7 @@ I managed to create an online presence with my [Blog](https://muthuannamalai.has
 - [5 Essential Tips For TypeScript Developers](https://muthuannamalai.tech/5-essential-tips-for-typescript-developers)
 - [How To Fix Git Ignore Not Working Issue](https://muthuannamalai.tech/how-to-fix-git-ignore-not-working-issue)
 - [Best Kubernetes Alternatives](https://muthuannamalai.tech/best-kubernetes-alternatives)
-- [Top 15 Popular Databases to Use in 2022](https://muthuannamalai.tech/top-15-popular-databases-to-use-in-2022)
+- [Top 15 Popular Databases to Use](https://muthuannamalai.tech/top-15-popular-databases-to-use)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles]( https://muthuannamalai.hashnode.dev/)
