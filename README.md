@@ -33,11 +33,11 @@ I managed to create an online presence with my [Blog](https://muthuannamalai.has
 
 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [The Essential Guide to Data Structures and Algorithms: A Modern Developer&#39;s Roadmap](https://muthuannamalai.hashnode.dev/the-essential-guide-to-data-structures-and-algorithms-a-modern-developers-roadmap)
 - [Best Web Hosting Services](https://muthuannamalai.hashnode.dev/best-web-hosting-services)
 - [5 Essential Tips For TypeScript Developers](https://muthuannamalai.hashnode.dev/5-essential-tips-for-typescript-developers)
 - [How To Fix Git Ignore Not Working Issue](https://muthuannamalai.hashnode.dev/how-to-fix-git-ignore-not-working-issue)
 - [Best Kubernetes Alternatives](https://muthuannamalai.hashnode.dev/best-kubernetes-alternatives)
-- [Top 15 Popular Databases to Use](https://muthuannamalai.hashnode.dev/top-15-popular-databases-to-use)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles]( https://muthuannamalai.hashnode.dev/)
